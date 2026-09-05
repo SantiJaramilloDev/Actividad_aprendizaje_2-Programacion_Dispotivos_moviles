@@ -15,7 +15,7 @@ La aplicacion consta de dos actividades:
 
 ### MainActivity (Catalogo)
 
-- Muestra tres productos: Smartphone, Laptop y Audifonos, cada uno con su precio en pesos mexicanos.
+- Muestra tres productos: Smartphone, Laptop y Audifonos, cada uno con su precio.
 - Cada producto tiene botones para aumentar (+) y disminuir (-) la cantidad seleccionada.
 - El total se calcula y se muestra en tiempo real conforme se modifica la cantidad de cada producto.
 - El boton **Pagar** envia las cantidades y el total a la segunda actividad.
