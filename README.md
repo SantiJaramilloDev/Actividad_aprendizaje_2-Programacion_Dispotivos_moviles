@@ -6,8 +6,7 @@ Aplicacion Android de dos actividades que permiten enviar datos entre dos vistas
 
 - **Nombre:** Santiago Jaramillo
 - **Institucion:** IU Digital de Antioquia
-- **Curso:** Programacion de Dispositivos Moviles
-- **Evidencia:** Evidencia de Aprendizaje 2 - Taller Practico
+- **Materia:** Programacion de Dispositivos Moviles
 
 ## Funcionamiento
 
